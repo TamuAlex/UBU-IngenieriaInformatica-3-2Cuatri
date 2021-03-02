@@ -1,0 +1,13 @@
+function y=f(x)
+  %y=x-0.5*sin(x)-0.7;
+  %y=x.^2-exp(x)+3;
+  %y=x*exp(x)-1;
+  %y=x.^2-2;
+  %y=x.^3+4*x-10;
+  %y=x.^3-5.9*x.^2+2.39*x+15.275;
+  %y=exp(-x.^2)-x;
+  %y=cos(x)-log(x);
+  %y=log(x)-exp(x)+5;
+  %y=x.^2-1-sin(x);
+  %y=x^2-log(x)-2;
+  y=x.^3+exp(x)+3;
