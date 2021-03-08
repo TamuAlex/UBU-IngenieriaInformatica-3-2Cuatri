@@ -1,0 +1,25 @@
+package pg01.c04;
+
+import java.util.concurrent.Executor;
+import java.util.concurrent.Executors;
+
+public class CasoEstudio4 {
+	
+public static void main(String args[]) {
+		
+		Thread hilox = new Thread(new MyThread('X', 100, 10));
+		Thread hiloo = new Thread(new MyThread('O', 100, 10));
+		Thread hilo_ = new Thread(new MyThread('-', 100, 10));
+		
+		Executor exec = Executors.newSingleThreadExecutor();
+		
+		
+		exec.execute(hilox);
+		exec.execute(hilo_);
+		exec.execute(hiloo);
+		
+		
+		
+	}
+
+}
