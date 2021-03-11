@@ -22,5 +22,6 @@ function y=g(x)
 %y=log(log(x)+5);
 %y=exp(-x.^2);
 %y=(log(x)+2).^(1/2);
-y=-(exp(x)+3).^(1/3);
+%y=-(exp(x)+3).^(1/3);
+y=-exp(x);
 

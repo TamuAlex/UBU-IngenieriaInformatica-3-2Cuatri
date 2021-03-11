@@ -10,4 +10,5 @@ function y=f(x)
   %y=log(x)-exp(x)+5;
   %y=x.^2-1-sin(x);
   %y=x^2-log(x)-2;
-  y=x.^3+exp(x)+3;
+  %y=x.^3+exp(x)+3;
+  y=x.^2-2;
