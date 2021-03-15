@@ -1,6 +1,5 @@
 package pg01.c04;
 
-import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
