@@ -1,6 +1,7 @@
 package pg02.c01;
 
 import java.util.Hashtable;
+import java.util.Random;
 
 public class Parque implements IParque {
 
@@ -15,21 +16,25 @@ public class Parque implements IParque {
 	}
 	
 	public void entrarAlParque(String puerta) {
-		
-		if (!contadorPersonasPuerta.containsKey(puerta)) {
-			contadorPersonasPuerta.put(puerta, 1);
-		} 
-		else {
-			
-			int contador = contadorPersonasPuerta.get(puerta);
-			contador ++;
-			contadorPersonasPuerta.put(puerta, contador);
-		}
 		nPersonas++;
+		try {
+			
+			Thread.sleep(new Random().nextInt(5) * 1000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		if (!contadorPersonasPuerta.containsKey(puerta)) {
+			contadorPersonasPuerta.put(puerta, 0);
+		} 
+
+		int contador = contadorPersonasPuerta.get(puerta);
+		contador ++;
+		contadorPersonasPuerta.put(puerta, contador);
+
 		
 		mensajes(puerta);
 		
-		assert comprobarInvariante() : "Se ha roto el invariante";
+		assert comprobarInvariante() : "Se ha jodido el invariante";
 		
 		
 		

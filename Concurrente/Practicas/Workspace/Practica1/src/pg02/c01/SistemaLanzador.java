@@ -1,16 +1,19 @@
 package pg02.c01;
 
 public class SistemaLanzador {
-
+	private static final int N = 5;
 	public static void main(String args[])  {
 		
-		IParque parque = new Parque();
+
+//		private IParque parque = new Parque();
+		IParque parque = AdaptadorParque.getInstancia();
 		
-		Thread puertaA = new Thread(new ActividadEntrPuerta("A", parque));
-		Thread puertaB = new Thread(new ActividadEntrPuerta("B", parque));
+		for (int i = 0; i < N; i++) {
+			String puerta = Character.toString((char)'A'+i);
+		new Thread(new ActividadEntrPuerta(puerta,parque)).start();
 		
-		puertaA.start();
-		puertaB.start();
+		}
+
 		
 	}
 	
