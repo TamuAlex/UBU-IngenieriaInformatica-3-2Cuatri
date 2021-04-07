@@ -1,0 +1,65 @@
+[c,yc]=cuerda(-2,1,0.01,1)
+200 iteraciones no han sido suficientes
+
+c =
+
+   NaN
+
+
+yc =
+
+   NaN
+
+sol=bis(-2,-1,0.000001)
+----
+número de iteraciones realizadas
+    20
+
+
+sol =
+
+   -1.5321   -1.5321
+
+[c,yc]=cuerda(-2,-1,0.01,1)
+nº de iteraciones= 
+     7
+
+
+c =
+
+   -1.5311
+
+
+yc =
+
+    0.0039
+
+[c,yc]=cuerda(-2,-1,0.1,1)
+nº de iteraciones= 
+     4
+
+
+c =
+
+   -1.5132
+
+
+yc =
+
+    0.0749
+
+[c,yc]=cuerda(-2,-1,0.0001,1)
+nº de iteraciones= 
+    11
+
+
+c =
+
+   -1.5321
+
+
+yc =
+
+   7.3377e-05
+
+diary off

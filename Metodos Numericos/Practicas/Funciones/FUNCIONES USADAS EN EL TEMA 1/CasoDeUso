@@ -1,0 +1,25 @@
+diary on
+sol=bis(1,2,0.000001)
+----
+número de iteraciones realizadas
+    20
+
+
+sol =
+
+    1.8794    1.8794
+
+[c,cy]=cuerda(-2,1,0.000001,1)
+200 iteraciones no han sido suficientes
+
+c =
+
+   NaN
+
+
+cy =
+
+   NaN
+
+diary off
+diary csuso

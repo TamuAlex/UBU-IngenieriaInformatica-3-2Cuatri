@@ -25,5 +25,5 @@ function y=g(x)
 %y=-(exp(x)+3).^(1/3);
 %y=-exp(x);
 %y=log(-x);
-y=-(exp(x) + x)./exp((x)+1);
+y=(3*x+1).^(1/3);
 

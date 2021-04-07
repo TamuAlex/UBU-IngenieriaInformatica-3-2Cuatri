@@ -12,4 +12,5 @@ function y=f(x)
   %y=x^2-log(x)-2;
   %y=x.^3+exp(x)+3;
   %y=x.^2-2;
-  y=exp(x) + x;
+  %y=exp(x) + x;
+  y=x.^3-3*x-1;
