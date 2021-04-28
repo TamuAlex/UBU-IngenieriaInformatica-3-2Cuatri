@@ -1,0 +1,94 @@
+V "GNAT Lib v2020"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_ENUMERATION_MAPS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_ASPECT_SPECIFICATIONS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U ejemplo_subrango%b	ejemplo_subrango.adb	eb74f090 NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.exceptions%s	a-except.adb		a-except.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z ada.text_io.enumeration_aux%s  a-tienau.adb	a-tienau.ali
+Z ada.text_io.enumeration_io%s
+Z ada.text_io.integer_aux%s  a-tiinau.adb	a-tiinau.ali
+Z ada.text_io.integer_io%s
+Z interfaces%s		interfac.ads		interfac.ali
+Z system%s		system.ads		system.ali
+Z system.img_enum_new%s	s-imenne.adb		s-imenne.ali
+Z system.val_enum%s	s-valenu.adb		s-valenu.ali
+
+D ada.ads		20200228061810 76789da1 ada%s
+D a-except.ads		20200228061810 a7106115 ada.exceptions%s
+D a-ioexce.ads		20200228061810 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20200228061810 119b8fb3 ada.streams%s
+D a-tags.ads		20200228061810 edddc8f0 ada.tags%s
+D a-textio.ads		20200228061810 aef4d56d ada.text_io%s
+D a-tienau.ads		20200228061810 6a9c157b ada.text_io.enumeration_aux%s
+D a-tienio.ads		20200228061810 2e79c9bf ada.text_io.enumeration_io%s
+D a-tienio.adb		20200228061810 c9e6b5af ada.text_io.enumeration_io%b
+D a-tiinau.ads		20200228061810 8114c8e4 ada.text_io.integer_aux%s
+D a-tiinio.ads		20200228061810 390edddb ada.text_io.integer_io%s
+D a-tiinio.adb		20200228061810 df9cd7af ada.text_io.integer_io%b
+D a-unccon.ads		20200228061810 0e9b276f ada.unchecked_conversion%s
+D ejemplo_subrango.adb	20210426064924 458025fd ejemplo_subrango%b
+D interfac.ads		20200228061810 5ab55268 interfaces%s
+D i-cstrea.ads		20200228061810 e53d8b8e interfaces.c_streams%s
+D system.ads		20200228061810 32a08138 system%s
+D s-crtl.ads		20200228061810 0ebbdb71 system.crtl%s
+D s-exctab.ads		20200228061810 54135002 system.exception_table%s
+D s-ficobl.ads		20200228061810 078245e4 system.file_control_block%s
+D s-imenne.ads		20200228061810 614c06c0 system.img_enum_new%s
+D s-parame.ads		20200228061810 4752c4cb system.parameters%s
+D s-secsta.ads		20200327060540 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20200228061810 a7318a92 system.soft_links%s
+D s-stache.ads		20200228061810 a37c21ec system.stack_checking%s
+D s-stalib.ads		20200228061810 6b7a13f2 system.standard_library%s
+D s-stoele.ads		20200228061810 2dc34a04 system.storage_elements%s
+D s-traent.ads		20200228061810 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20200319060540 5ecf7212 system.unsigned_types%s
+D s-valenu.ads		20200228061810 6201ebfb system.val_enum%s
+D s-wchcon.ads		20200228061810 1b7d22d2 system.wch_con%s
+G a e
+G c Z b b [ejemplo_subrango standard 5 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 14|1r6 2r5 3r5
+X 6 a-textio.ads
+57K13*Text_IO 727e16 14|1w10 2r9 9r27 10r28
+264U14*New_Line 14|33s4 44s4
+273U14*Skip_Line 14|20s4 24s4 28s4
+465U14*Put 14|18s4 22s4 26s4 31s4 42s4
+X 8 a-tienio.ads
+26k21*Enumeration_IO 76e31 14|10r36
+52U14 Put 14|43s4[10]
+X 11 a-tiinio.ads
+46k21*Integer_IO 108e27 14|9r35
+59U14 Get 14|19s4[9] 23s4[9] 27s4[9]
+80U14 Put 14|32s4[9]
+X 14 ejemplo_subrango.adb
+5U11*Ejemplo_Subrango 5b11 45l5 45t21
+7I9 Nota_Num<short_short_integer> 9r46 13r37
+8E9 Nota_Letra 8e67 10r51 14r16
+8n24 Suspenso{8E9} 37r32
+8n34 Aprobado{8E9} 38r32
+8n44 Notable{8E9} 39r33
+8n53 Sobresaliente{8E9} 40r32
+9K12 Nota_IO[11|46] 11r8
+10K12 Letra_IO[8|26] 11r17
+13i4 Nota1{7I9} 19m8 30r17
+13i11 Nota2{7I9} 23m8 30r23
+13i18 Nota3{7I9} 27m8 30r29
+13i25 Nota_Media{7I9} 30m4 32r8 36r9
+14e4 Nota_Final{8E9} 37m20 38m20 39m20 40m20 43r8
+

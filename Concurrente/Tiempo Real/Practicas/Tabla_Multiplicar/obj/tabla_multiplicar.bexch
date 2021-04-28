@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__tabla_multiplicar.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Tabla_Multiplicar\tabla_multiplicar.gpr
+20210419080124 426475fc4fd737d67e7254aa3ebbf04e
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Tabla_Multiplicar\obj\tabla_multiplicar.o
+[GENERATED SOURCE FILES]
+b__tabla_multiplicar.ads
+b__tabla_multiplicar.adb
+b__tabla_multiplicar.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Tabla_Multiplicar\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Tabla_Multiplicar\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

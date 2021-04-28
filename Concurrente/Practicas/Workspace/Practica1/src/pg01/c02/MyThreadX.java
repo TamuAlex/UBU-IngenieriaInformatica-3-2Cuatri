@@ -4,12 +4,12 @@ public class MyThreadX implements Runnable {
 
 	@Override
 	public void run() {
-		for (int i = 0; i < 100000; i++) {
+		for (int i = 0; i < 10; i++) {
 			
 			if (i == 2) {
 				Thread.yield();
 			}
-			for (int j = 0; j< 10000; j++) {
+			for (int j = 0; j< 1; j++) {
 				System.out.print("X");
 				}
 

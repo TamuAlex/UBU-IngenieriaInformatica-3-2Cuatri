@@ -4,8 +4,8 @@ public class MyThreadO implements Runnable {
 
 	@Override
 	public void run() {
-		for (int i = 0; i < 100000; i++) {
-			for (int j = 0; j< 10000; j++) {
+		for (int i = 0; i < 10; i++) {
+			for (int j = 0; j< 1; j++) {
 				System.out.print("O");
 				}
 

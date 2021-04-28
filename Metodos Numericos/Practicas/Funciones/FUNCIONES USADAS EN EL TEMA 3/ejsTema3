@@ -1,0 +1,133 @@
+diary on
+%Ejercicio 6
+nod=[-pi/2 0 pi/2 2*pi]
+
+nod =
+
+   -1.5708         0    1.5708    6.2832
+
+fun=sin(nod)
+
+fun =
+
+   -1.0000         0    1.0000   -0.0000
+
+coeflag=inlag(nod,fun)
+
+coeflag =
+
+    0.0258         0   -0.0430   -0.0000
+
+[sol,coter]=evallage(pi/4,coeflag,nod,fun,M)
+{Unrecognized function or variable 'M'.
+} 
+[sol,coter]=evallage(pi/4,coeflag,nod,fun)
+
+sol =
+
+    0.5250
+
+
+coter =
+
+     []
+
+clear
+nod=[-pi/2 0 pi/2 2*pi]
+
+nod =
+
+   -1.5708         0    1.5708    6.2832
+
+fun=sin(nod)
+
+fun =
+
+   -1.0000         0    1.0000   -0.0000
+
+coeflag=inlag(nod,fun)
+
+coeflag =
+
+    0.0258         0   -0.0430   -0.0000
+
+[sol,coter]=evallage(pi/4,coeflag,nod,fun)
+
+sol =
+
+    0.5250
+
+
+coter =
+
+     []
+
+abs(sin(pi/4-sol
+ abs(sin(pi/4-sol
+                 ↑
+{Error: Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched
+delimiters.
+} 
+abs(sin(pi/4-sol)
+ abs(sin(pi/4-sol)
+                  ↑
+{Error: Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched
+delimiters.
+} 
+abs(sin(pi/4)-sol)
+
+ans =
+
+    0.1821
+
+[sol2,coter]=evallage(pi*4,coeflag,nod,fun)
+
+sol2 =
+
+  -25.6000
+
+
+coter =
+
+     []
+
+abs(sol2-sin(4*pi))
+
+ans =
+
+   25.6000
+
+[sol2,coter]=evallage(pi*4,coeflag,nod,fun,1)
+
+sol2 =
+
+  -25.6000
+
+
+coter =
+
+  511.3977
+
+[sol2,coter]=evallage(pi/4,coeflag,nod,fun,1)
+
+sol2 =
+
+    0.5250
+
+
+coter =
+
+    0.3329
+
+[sol2,coter2]=evallage(pi*4,coeflag,nod,fun,1)
+
+sol2 =
+
+  -25.6000
+
+
+coter2 =
+
+  511.3977
+
+diary off

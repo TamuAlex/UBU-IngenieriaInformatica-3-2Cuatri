@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__ejemplo_subrango.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Nueva carpeta\ejemplo_subrango.gpr
+20210426064052 87e18a2e594c7cdac8d021b410357b64
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Nueva carpeta\obj\ejemplo_subrango.o
+[GENERATED SOURCE FILES]
+b__ejemplo_subrango.ads
+b__ejemplo_subrango.adb
+b__ejemplo_subrango.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Nueva carpeta\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Nueva carpeta\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

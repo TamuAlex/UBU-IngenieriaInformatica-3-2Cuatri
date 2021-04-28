@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__ejemplo_for.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Ejemplo_ForLoop\ejemplo_for.gpr
+20210426070708 d4fc8ce75b9541b7ac8fee467885ad1c
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Ejemplo_ForLoop\obj\ejemplo_for.o
+[GENERATED SOURCE FILES]
+b__ejemplo_for.ads
+b__ejemplo_for.adb
+b__ejemplo_for.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Ejemplo_ForLoop\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Ejemplo_ForLoop\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

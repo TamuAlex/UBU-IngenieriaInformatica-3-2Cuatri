@@ -12,8 +12,8 @@ public static void main(String args[]) throws InterruptedException {
 		hilox.start();
 		hiloo.start();
 		hilo_.start();
-		
 		hilox.join();
+		System.out.println("El programa ha terminado");
 	}
 
 }
