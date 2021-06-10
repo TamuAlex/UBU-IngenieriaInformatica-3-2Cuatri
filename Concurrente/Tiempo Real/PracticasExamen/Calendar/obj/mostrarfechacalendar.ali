@@ -1,0 +1,81 @@
+V "GNAT Lib v2020"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_CALENDAR
+RV NO_DELAY
+RV NO_FIXED_POINT
+RV NO_IO
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U mostrarfechacalendar%b  mostrarfechacalendar.adb  c23ddc2d NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z system.concat_6%s	s-conca6.adb		s-conca6.ali
+Z system.img_int%s	s-imgint.adb		s-imgint.ali
+
+D ada.ads		20200228061810 76789da1 ada%s
+D a-calend.ads		20200228061810 474d9720 ada.calendar%s
+D a-except.ads		20200228061810 a7106115 ada.exceptions%s
+D a-ioexce.ads		20200228061810 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20200228061810 119b8fb3 ada.streams%s
+D a-tags.ads		20200228061810 edddc8f0 ada.tags%s
+D a-textio.ads		20200228061810 aef4d56d ada.text_io%s
+D a-unccon.ads		20200228061810 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20200228061810 5ab55268 interfaces%s
+D i-cstrea.ads		20200228061810 e53d8b8e interfaces.c_streams%s
+D mostrarfechacalendar.adb  20210602222038 2b849e60 mostrarfechacalendar%b
+D system.ads		20200228061810 32a08138 system%s
+D s-conca6.ads		20200228061810 d2c72db2 system.concat_6%s
+D s-crtl.ads		20200228061810 0ebbdb71 system.crtl%s
+D s-exctab.ads		20200228061810 54135002 system.exception_table%s
+D s-ficobl.ads		20200228061810 078245e4 system.file_control_block%s
+D s-imgint.ads		20200228061810 02dbe0c2 system.img_int%s
+D s-parame.ads		20200228061810 4752c4cb system.parameters%s
+D s-secsta.ads		20200327060540 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20200228061810 a7318a92 system.soft_links%s
+D s-stache.ads		20200228061810 a37c21ec system.stack_checking%s
+D s-stalib.ads		20200228061810 6b7a13f2 system.standard_library%s
+D s-stoele.ads		20200228061810 2dc34a04 system.storage_elements%s
+D s-traent.ads		20200228061810 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20200319060540 5ecf7212 system.unsigned_types%s
+D s-wchcon.ads		20200228061810 1b7d22d2 system.wch_con%s
+G a e
+G c Z b b [mostrarfechacalendar standard 4 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 11|1r6 1r19 2r5 2r18 6r13 9r13 10r13 11r13 18r14 21r11 22r11
+. 23r12 30r9 32r9 34r9
+X 2 a-calend.ads
+36K13*Calendar 409e17 11|1w23 2r22 6r17 9r17 10r17 11r17 18r18 21r15 22r15
+. 23r16 30r13 32r13 34r13
+42I9*Time<222I9> 11|6r26
+48I12*Year_Number{integer} 11|11r26 34r22
+49I12*Month_Number{integer} 11|10r26 32r22
+50I12*Day_Number{integer} 11|9r26 30r22
+54O12*Day_Duration{duration}
+56V13*Clock{42I9} 11|18s27
+64V13*Year{48I12} 11|23s25
+65V13*Month{49I12} 11|22s24
+66V13*Day{50I12} 11|21s24
+67V13*Seconds{54O12} 11|25s20 26s22 27s23
+222I9 Time_Rep<long_long_integer>
+X 7 a-textio.ads
+57K13*Text_IO 727e16 11|1w10 2r9
+465U14*Put 11|29s4 30s4 31s4 32s4 33s4 34s4
+508U14*Put_Line 11|36s4
+X 11 mostrarfechacalendar.adb
+4U11*Mostrarfechacalendar 4b11 39l5 39t25
+6i4 Tiempo{2|42I9} 18m4 21r28 22r30 23r30 25r28 26r30 27r31
+9i4 Dia{2|50I12} 21m4 30r39
+10i4 Mes{2|49I12} 22m4 32r41
+11i4 Anio{2|48I12} 23m4 34r40
+14i4 Hora{integer} 25m4 26r39 27r40 36r44
+14i10 Minuto{integer} 26m4 27r50 36r68
+14i18 Segundo{integer} 27m4 37r31
+

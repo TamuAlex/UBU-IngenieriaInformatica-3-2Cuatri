@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__cita_en_ada.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Cita\cita_en_ada.gpr
+20210517070452 70e2dd43809a61a27a0dcc07f8f448ca
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Cita\obj\cita_en_ada.o
+[GENERATED SOURCE FILES]
+b__cita_en_ada.ads
+b__cita_en_ada.adb
+b__cita_en_ada.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Cita\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Cita\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

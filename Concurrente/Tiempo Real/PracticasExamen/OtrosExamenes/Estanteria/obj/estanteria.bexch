@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__estanteria.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\OtrosExamenes\Estanteria\estanteria.gpr
+20210602192636 10255359ab166f7a0440c1efced10757
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\OtrosExamenes\Estanteria\obj\llaves.o
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\OtrosExamenes\Estanteria\obj\estanteria.o
+[GENERATED SOURCE FILES]
+b__estanteria.ads
+b__estanteria.adb
+b__estanteria.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\OtrosExamenes\Estanteria\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\OtrosExamenes\Estanteria\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

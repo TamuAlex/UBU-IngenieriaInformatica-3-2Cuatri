@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.Embeddable"/>
+    <fullyQualifiedTypeName name="es.ubu.lsi.model.invoice.Lineafactura"/>
+    <fullyQualifiedTypeName name="es.ubu.lsi.dao.JpaDAO"/>
+    <fullyQualifiedTypeName name="es.ubu.lsi.dao.invoice.FacturaDAO"/>
+    <fullyQualifiedTypeName name="es.ubu.lsi.dao.invoice.LineaFacturaDAO"/>
+    <fullyQualifiedTypeName name="es.ubu.lsi.model.invoice.Factura"/>
+    <fullyQualifiedTypeName name="javax.persistence.TypedQuery"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.common.util.impl.LoggerFactory"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+</qualifiedTypeNameHistroy>

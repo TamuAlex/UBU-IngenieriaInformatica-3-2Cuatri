@@ -1,0 +1,5 @@
+project Tareas_Periodicas2 is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("tareas_periodicas2.adb");
+end Tareas_Periodicas2;

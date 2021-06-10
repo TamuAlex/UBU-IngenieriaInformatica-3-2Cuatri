@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__planificador_ciclico.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\PlanificadorCiclico\planificador_ciclico.gpr
+20210603110842 35ca32364239ff0694930d563ddb7a35
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\PlanificadorCiclico\obj\planificador_ciclico.o
+[GENERATED SOURCE FILES]
+b__planificador_ciclico.ads
+b__planificador_ciclico.adb
+b__planificador_ciclico.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\PlanificadorCiclico\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\PlanificadorCiclico\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

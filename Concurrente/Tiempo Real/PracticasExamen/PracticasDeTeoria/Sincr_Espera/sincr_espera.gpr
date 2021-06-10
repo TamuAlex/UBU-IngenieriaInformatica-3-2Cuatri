@@ -1,0 +1,5 @@
+project Sincr_Espera is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("sincr_espera.adb");
+end Sincr_Espera;

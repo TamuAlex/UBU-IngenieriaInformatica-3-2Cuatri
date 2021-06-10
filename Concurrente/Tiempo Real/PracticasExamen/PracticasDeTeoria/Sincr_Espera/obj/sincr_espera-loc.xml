@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\alumnos.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 31" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\clases.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\clases.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 30" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\clases.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\lista_alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 30" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\lista_alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\menu.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\menu.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\lista_alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\lista_alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\PracticasDeTeoria\Sincr_Espera\src\sincr_espera.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\sincr_espera.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Cita\src\cita_en_ada.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Cita\src\cita_en_ada.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 46">
+      <vfs_project  />
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Cita\src\cita_en_ada.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 66" line=" 44">
+      <vfs_project  />
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Cita\src\cita_en_ada.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 78">
+      <vfs_project  />
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Cita\src\cita_en_ada.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\sincr_espera.gpr</vfs_project>
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\src\sincr_espera.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 56">
+      <vfs_project >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\sincr_espera.gpr</vfs_project>
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\src\sincr_espera.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 24">
+      <vfs_project >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\sincr_espera.gpr</vfs_project>
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\src\sincr_espera.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\sincr_espera.gpr</vfs_project>
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\src\sincr_espera.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 7" line=" 10">
+      <vfs_project >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\sincr_espera.gpr</vfs_project>
+      <vfs_file >C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Sincr_Espera\src\sincr_espera.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

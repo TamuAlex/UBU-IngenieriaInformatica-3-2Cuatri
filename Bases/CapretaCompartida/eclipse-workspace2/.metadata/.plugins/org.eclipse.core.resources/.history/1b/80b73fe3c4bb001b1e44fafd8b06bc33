@@ -1,0 +1,16 @@
+package es.ubu.lsi.model.asociacion;
+
+import java.io.Serializable;
+import javax.persistence.*;
+
+@Entity
+@Table(name="TipoIncidencia")
+public class TipoIncidencia implements Serializable{
+
+	private static final long serialVersionUID = 1L;
+	
+	@Id
+	private int id;
+	
+
+}

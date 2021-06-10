@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__duracion.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\Real_Time\duracion.gpr
+20210602222240 13a824351adf08d75b3923d46d2268d8
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\Real_Time\obj\duracion.o
+[GENERATED SOURCE FILES]
+b__duracion.ads
+b__duracion.adb
+b__duracion.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\Real_Time\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\Real_Time\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

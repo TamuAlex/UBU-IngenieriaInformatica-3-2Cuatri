@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__prueba_complejos.o
+[PROJECT FILES]
+C:\_UBU\TIEMPO REAL\19_20\PRACTICAS\EJERCICIOS\Prueba_Complejos\prueba_complejos.gpr
+20180320204216
+[BOUND OBJECT FILES]
+C:\_UBU\TIEMPO REAL\19_20\PRACTICAS\EJERCICIOS\Prueba_Complejos\obj\Complejos.o
+C:\_UBU\TIEMPO REAL\19_20\PRACTICAS\EJERCICIOS\Prueba_Complejos\obj\prueba_complejos.o
+[GENERATED SOURCE FILES]
+b__prueba_complejos.ads
+b__prueba_complejos.adb
+b__prueba_complejos.ali
+[RESULTING OPTIONS]
+-LC:\_UBU\TIEMPO REAL\19_20\PRACTICAS\EJERCICIOS\Prueba_Complejos\obj\
+-LC:\_UBU\TIEMPO REAL\19_20\PRACTICAS\EJERCICIOS\Prueba_Complejos\obj\
+-LC:/gnat/2017/lib/gcc/i686-pc-mingw32/6.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2017/lib/gcc/i686-pc-mingw32/6.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

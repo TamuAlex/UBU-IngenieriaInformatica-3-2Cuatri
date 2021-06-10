@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__crearfichero.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\crarfichero.gpr
+20210510064126 8aabd43c980e865a8b860cde1f7642a6
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\obj\crearfichero.o
+[GENERATED SOURCE FILES]
+b__crearfichero.ads
+b__crearfichero.adb
+b__crearfichero.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

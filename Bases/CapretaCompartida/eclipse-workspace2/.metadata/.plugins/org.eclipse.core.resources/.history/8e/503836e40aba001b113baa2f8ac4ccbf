@@ -1,0 +1,124 @@
+package es.ubu.lsi.model.invoice;
+
+import java.io.Serializable;
+import javax.persistence.*;
+import java.math.BigDecimal;
+import java.util.Date;
+import java.util.List;
+
+
+
+
+/**
+ * The persistent class for the FACTURAS database table.
+ * 
+ */
+@Entity
+@Table(name="FACTURAS")
+
+@NamedQueries({
+	@NamedQuery(name = "Factura.findAll",
+			query = "SELECT f FROM Factura f ORDER BY f.nro"),
+	@NamedQuery(name = "Factura.findAllWithLines",
+	query = "SELECT f FROM Factura f JOIN FETCH f.lineasfacturas")
+})
+
+
+
+public class Factura implements Serializable {
+	private static final long serialVersionUID = 1L;
+
+	@Id
+	private long nro;
+
+
+	@Column(name = "CLIENTE", length = 10)
+	private String cliente;
+
+	@Temporal(TemporalType.DATE)
+	private Date fecha;
+
+	@Column(name="TOTAL", precision = 8, scale = 2)
+	private BigDecimal total;
+	
+	@Embedded
+	private DireccionFacturacion direccionFacturacion;
+	
+	
+
+
+	//bi-directional many-to-one association to Lineasfactura
+	@OneToMany(mappedBy="factura", fetch = FetchType.LAZY)
+	private List<Lineafactura> lineasfacturas;
+
+	public Factura() {
+	}
+
+	public long getNro() {
+		return this.nro;
+	}
+
+	public void setNro(long nro) {
+		this.nro = nro;
+	}
+
+	
+
+	public String getCliente() {
+		return this.cliente;
+	}
+
+	public void setCliente(String cliente) {
+		this.cliente = cliente;
+	}
+
+
+
+
+	public Date getFecha() {
+		return this.fecha;
+	}
+
+	public void setFecha(Date fecha) {
+		this.fecha = fecha;
+	}
+
+	public BigDecimal getTotal() {
+		return this.total;
+	}
+
+	public void setTotal(BigDecimal total) {
+		this.total = total;
+	}
+	
+	public DireccionFacturacion getDireccionFacturacion() {
+		return direccionFacturacion;
+	}
+
+	public void setDireccionFacturacion(DireccionFacturacion direccionFacturacion) {
+		this.direccionFacturacion = direccionFacturacion;
+	}
+
+	public List<Lineafactura> getLineasfacturas() {
+		return this.lineasfacturas;
+	}
+
+	public void setLineasfacturas(List<Lineafactura> lineasfacturas) {
+		this.lineasfacturas = lineasfacturas;
+	}
+
+	public Lineafactura addLineasfactura(Lineafactura lineasfactura) {
+		getLineasfacturas().add(lineasfactura);
+		lineasfactura.setFactura(this);
+
+		return lineasfactura;
+	}
+
+	public Lineafactura removeLineasfactura(Lineafactura lineasfactura) {
+		getLineasfacturas().remove(lineasfactura);
+		lineasfactura.setFactura(null);
+
+		return lineasfactura;
+	}
+
+}

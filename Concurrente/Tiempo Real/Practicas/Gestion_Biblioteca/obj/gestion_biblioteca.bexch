@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__gestion_biblioteca.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Gestion_Biblioteca\gestion_biblioteca.gpr
+20210511174900 12578b26b287b0c92427d4541c7a5e1d
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Gestion_Biblioteca\obj\biblioteca.o
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Gestion_Biblioteca\obj\gestion_biblioteca.o
+[GENERATED SOURCE FILES]
+b__gestion_biblioteca.ads
+b__gestion_biblioteca.adb
+b__gestion_biblioteca.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Gestion_Biblioteca\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Gestion_Biblioteca\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

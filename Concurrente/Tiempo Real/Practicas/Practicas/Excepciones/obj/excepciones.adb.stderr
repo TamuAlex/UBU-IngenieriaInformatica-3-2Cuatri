@@ -1,0 +1,2 @@
+excepciones.adb:8:11: warning: division by zero
+excepciones.adb:8:11: warning: "Constraint_Error" will be raised at run time

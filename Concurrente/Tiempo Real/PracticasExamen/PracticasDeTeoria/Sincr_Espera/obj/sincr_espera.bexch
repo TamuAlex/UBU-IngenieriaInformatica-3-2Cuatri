@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__sincr_espera.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Practicas\Sincr_Espera\sincr_espera.gpr
+20210517073024 6dde1204e6dfe1ddec31329cf428da0e
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Practicas\Sincr_Espera\obj\sincr_espera.o
+[GENERATED SOURCE FILES]
+b__sincr_espera.ads
+b__sincr_espera.adb
+b__sincr_espera.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Practicas\Sincr_Espera\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\Practicas\Practicas\Sincr_Espera\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

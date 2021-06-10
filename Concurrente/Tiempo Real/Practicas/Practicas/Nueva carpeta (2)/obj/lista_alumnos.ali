@@ -1,0 +1,65 @@
+V "GNAT Lib v2020"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U lista_alumnos%b	lista_alumnos.adb	667550e1 NE OO SU
+W alumnos%s		alumnos.adb		alumnos.ali
+W clases%s		clases.adb		clases.ali
+Z interfaces%s		interfac.ads		interfac.ali
+W menu%s		menu.adb		menu.ali
+
+D alumnos.ads		20210503075000 ab784653 alumnos%s
+D clases.ads		20210503074904 cc3db460 clases%s
+D interfac.ads		20200228061810 5ab55268 interfaces%s
+D lista_alumnos.adb	20210503075444 f1ad7fb8 lista_alumnos%b
+D menu.ads		20210503074652 f09ddd6a menu%s
+D system.ads		20200228061810 32a08138 system%s
+G a e
+G c Z b b [lista_alumnos standard 2 11 none]
+G r s clase [lista_alumnos standard 2 11 none] [claseIP clases 16 9 none]
+G r s alumno [lista_alumnos standard 2 11 none] [alumnoIP alumnos 10 9 none]
+G r c none [lista_alumnos standard 2 11 none] [pide_opcion menu 5 14 none]
+G r c none [lista_alumnos standard 2 11 none] [llena clases 11 13 none]
+G r c none [lista_alumnos standard 2 11 none] [lee alumnos 6 14 none]
+G r c none [lista_alumnos standard 2 11 none] [inserta_alumno clases 8 14 none]
+G r c none [lista_alumnos standard 2 11 none] [mensaje_error menu 7 14 none]
+G r c none [lista_alumnos standard 2 11 none] [lee_num_alumno menu 6 14 none]
+G r c none [lista_alumnos standard 2 11 none] [numero_alumnos clases 10 13 none]
+G r c none [lista_alumnos standard 2 11 none] [dame_alumno clases 9 13 none]
+G r c none [lista_alumnos standard 2 11 none] [escribe alumnos 7 14 none]
+X 1 alumnos.ads
+1K9*Alumnos 16e12 4|1w11 5r10 15r13 24r13
+5R9*Alumno 15e14 4|5r18
+6U14*Lee 4|15s21
+7U14*Escribe 4|24s21
+X 2 clases.ads
+2K9*Clases 21e11 4|1w19 3r16 6r10 12r13 16r13 20r17 23r18
+5I12*Num_Alumno{integer} 4|6r17
+6R9*Clase 19e14 4|3r23
+8U14*Inserta_Alumno 4|16s20
+9V13*Dame_Alumno{1|5R9} 4|23s25
+10V13*Numero_Alumnos{natural} 4|20s24
+11V13*Llena{boolean} 4|12s20
+X 4 lista_alumnos.adb
+2U11*Lista_Alumnos 2b11 29l5 29t18
+3r4 Tercero_B{2|6R9} 12r26 16m39 16r39 20r39 23r41
+4e4 Eleccion{5|4E9} 9m25 10r12
+5r4 Alu{1|5R9} 15m25 16r35 23m13 24r29
+6i4 Num{2|5I12} 19m30 20r13 23r37
+X 5 menu.ads
+2K9*Menu 4|1w6 4r15 9r7 11r12 13r13 18r12 19r10 21r13 26r12 5|9e9
+4E9*Opcion 4|4r20 5|4e41
+4n20*Insertar{4E9} 4|11r17
+4n29*Mirar{4E9} 4|18r17
+4n35*Salir{4E9} 4|26r17
+5U14*Pide_Opcion 4|9s12
+6U14*Lee_Num_Alumno 4|19s15
+7U14*Mensaje_Error 4|13s18 21s18
+

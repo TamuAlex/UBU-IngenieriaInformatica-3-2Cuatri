@@ -1,0 +1,46 @@
+V "GNAT Lib v2017"
+A -gnatA
+A -mtune=generic
+A -march=pentium4
+P SS ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_SECONDARY_STACK
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U complejos%b		complejos.adb		a243569c NE OO PK
+W system.concat_4%s	s-conca4.adb		s-conca4.ali
+W system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+
+U complejos%s		complejos.ads		983af4b6 EE NE OO PK
+
+D complejos.ads		20190601075924 983af4b6 complejos%s
+D complejos.adb		20180324193158 3a79a22a complejos%b
+D system.ads		20170516105954 32a08138 system%s
+D s-conca4.ads		20170516105954 7e642b20 system.concat_4%s
+D s-imgrea.ads		20170516105948 c7a851e2 system.img_real%s
+D s-secsta.ads		20170516105954 9751b57e system.secondary_stack%s
+D s-stoele.ads		20170516105956 2dc34a04 system.storage_elements%s
+X 1 complejos.ads
+1K9*Complejos 15E9 19l5 19e14 2|1b14 30l5 30t14
+4R9*Complejo 8r49 9r22 10r22 11r26 11r43 12r23 15c9 17e14 2|2r26 2r43 7r49
+. 12r23 17r24 26r23
+8V13*Haz_Complejo{4R9} 8>27 8>30 2|7b13 10l8 10t20
+8f27 Re{float} 2|7b27 9r15
+8f30 Im{float} 2|7b30 9r18
+9V13*Real{float} 9>18 2|26b13 29l8 29t12
+9r18 C{4R9} 2|26b19 28r14
+10V13*Imag{float} 10>18 2|12b13 15l8 15t12
+10r18 C{4R9} 2|12b19 14r14
+11V14*"+"{4R9} 11>18 11>21 2|2b14 5l9 5t11
+11r18 C1{4R9} 2|2b18 4r15 4r27
+11r21 C2{4R9} 2|2b21 4r21 4r33
+12V13*Image{string} 12>19 2|17b13 24l8 24t13
+12r19 C{4R9} 2|17b20 19r10 20r29 20r53 22r29 22r57
+16f7*Re{float} 2|4r18 4r24 20r31 22r31 28r16
+16f10*Im{float} 2|4r30 4r36 14r16 19r12 20r55 22r59
+

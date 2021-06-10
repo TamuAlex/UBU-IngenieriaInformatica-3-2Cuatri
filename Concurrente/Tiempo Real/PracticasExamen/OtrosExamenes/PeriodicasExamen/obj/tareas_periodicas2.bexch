@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__tareas_periodicas2.o
+[PROJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\OtrosExamenes\PeriodicasExamen\tareas_periodicas2.gpr
+20210603094714 55a3f403e5607c84ccd0d5d62b89448e
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\OtrosExamenes\PeriodicasExamen\obj\tareas_periodicas2.o
+[GENERATED SOURCE FILES]
+b__tareas_periodicas2.ads
+b__tareas_periodicas2.adb
+b__tareas_periodicas2.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\OtrosExamenes\PeriodicasExamen\obj\
+-LC:\Users\Usuario\Uni\UBU-IngenieriaInformatica-3-2Cuatri\Concurrente\Tiempo Real\PracticasExamen\OtrosExamenes\PeriodicasExamen\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

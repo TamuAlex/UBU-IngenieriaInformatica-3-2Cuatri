@@ -1,0 +1,15 @@
+package es.ubu.lsi.model.asociacion;
+
+import java.io.Serializable;
+import javax.persistence.*;
+
+
+@Entity
+@Table(name="Incidencia")
+public class Incidencia implements Serializable{
+
+	private static final long serialVersionUID = 1L;
+	
+	
+
+}

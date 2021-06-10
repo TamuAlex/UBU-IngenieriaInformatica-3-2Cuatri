@@ -1,0 +1,482 @@
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.692 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.696 [main] ExecuteScript - SQL*Plus: Release 11.2.0.2.0 Production on Mar May 11 18:48:24 2021
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.697 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.698 [main] ExecuteScript - Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.700 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.718 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.719 [main] ExecuteScript - Connected to:
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.721 [main] ExecuteScript - Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.722 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.780 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.781 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.785 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.805 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.806 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.806 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.830 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.833 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.833 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.844 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.845 [main] ExecuteScript - Sequence dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.845 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.852 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.852 [main] ExecuteScript - Sequence created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.853 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.879 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.879 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.887 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.895 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.902 [main] ExecuteScript - Sequence dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.904 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.905 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.906 [main] ExecuteScript - Sequence created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.907 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.931 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.932 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.932 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.982 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.993 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.994 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.995 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.997 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.998 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:24.998 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:25.000 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:25.002 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:25.006 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:25.009 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:25.009 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-11 18:48:25.010 [main] ExecuteScript - Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-11 18:48:25.842 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-11 18:48:25.843 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-11 18:48:26.113 [main] SQLException_PracticaJDBC2021 - No existe cliente con ese DNI
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.116 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.116 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.119 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:267)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.119 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:39)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.120 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-11 18:48:26.120 [main] PracticaJDBC2021 - No existe cliente con ese DNI
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-11 18:48:26.126 [main] SQLException_PracticaJDBC2021 - No existe cliente con ese DNI
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.127 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.127 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.128 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:316)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.128 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:39)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.129 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-11 18:48:26.131 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-11 18:48:26.132 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-11 18:48:26.150 [main] PracticaJDBC2021 - ORA-02291: integrity constraint (HR.SYS_C0011656) violated - parent key not found
+
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-11 18:48:26.151 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.151 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.152 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.152 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:297)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.152 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:52)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.155 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-11 18:48:26.156 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-11 18:48:26.156 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-11 18:48:26.161 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-11 18:48:26.162 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-11 18:48:26.174 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-11 18:48:26.182 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-11 18:48:26.187 [main] PracticaJDBC2021 - ORA-00001: unique constraint (HR.SYS_C0011655) violated
+
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-11 18:48:26.190 [main] SQLException_PracticaJDBC2021 - Autorizacion Repetida
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.191 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.194 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.195 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:307)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.195 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:94)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.196 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-11 18:48:26.196 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-11 18:48:26.197 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-11 18:48:26.199 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.200 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.209 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.216 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:205)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.216 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:109)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.217 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:224)]2021-05-11 18:48:26.217 [main] PracticaJDBC2021 - No existe ese nro de cuenta corriente
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-11 18:48:26.218 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.219 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.220 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.220 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:227)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.222 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:109)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.222 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-11 18:48:26.223 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-11 18:48:26.224 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-11 18:48:26.225 [main] SQLException_PracticaJDBC2021 - El saldo no puede ser negativo
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.229 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.230 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.230 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:212)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.231 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:122)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.231 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:224)]2021-05-11 18:48:26.232 [main] PracticaJDBC2021 - El saldo no puede ser negativo
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-11 18:48:26.232 [main] SQLException_PracticaJDBC2021 - El saldo no puede ser negativo
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.233 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.233 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.234 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:231)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.234 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:122)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-11 18:48:26.235 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-11 18:48:26.236 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-11 18:48:26.237 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-11 18:48:26.243 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-11 18:48:26.244 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.607 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.628 [main] ExecuteScript - SQL*Plus: Release 11.2.0.2.0 Production on Mié May 12 08:43:26 2021
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.629 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.632 [main] ExecuteScript - Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.652 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.687 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.688 [main] ExecuteScript - Connected to:
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.690 [main] ExecuteScript - Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.696 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.846 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.847 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.848 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.902 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.903 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:26.904 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.008 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.064 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.065 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.066 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.086 [main] ExecuteScript - Sequence dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.088 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.089 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.092 [main] ExecuteScript - Sequence created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.096 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.134 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.160 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.165 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.184 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.191 [main] ExecuteScript - Sequence dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.215 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.216 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.220 [main] ExecuteScript - Sequence created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.221 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.267 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.269 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.270 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.442 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.453 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.458 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.465 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.468 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.477 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.480 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.483 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.485 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.487 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.492 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.493 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:43:27.494 [main] ExecuteScript - Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:43:30.854 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:43:30.873 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:43:32.450 [main] SQLException_PracticaJDBC2021 - No existe cliente con ese DNI
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.456 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.465 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.466 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:267)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.482 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:39)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.484 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-12 08:43:32.485 [main] PracticaJDBC2021 - No existe cliente con ese DNI
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:43:32.532 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:43:32.537 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-12 08:43:32.622 [main] PracticaJDBC2021 - ORA-02291: integrity constraint (HR.SYS_C0011663) violated - parent key not found
+
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:43:32.629 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.634 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.636 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.637 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:297)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.641 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:52)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.643 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:43:32.666 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:43:32.673 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:43:32.691 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:43:32.693 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:43:32.769 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:43:32.770 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-12 08:43:32.780 [main] PracticaJDBC2021 - ORA-00001: unique constraint (HR.SYS_C0011662) violated
+
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:43:32.787 [main] SQLException_PracticaJDBC2021 - Autorizacion Repetida
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.793 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.801 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.808 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:307)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.809 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:94)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.811 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:43:32.836 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:43:32.846 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:43:32.877 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.884 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.889 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.890 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:205)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.891 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:109)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.894 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:224)]2021-05-12 08:43:32.897 [main] PracticaJDBC2021 - No existe ese nro de cuenta corriente
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:43:32.899 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.901 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.904 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.905 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:227)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.906 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:109)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.907 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:43:32.911 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:43:32.913 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:43:32.921 [main] SQLException_PracticaJDBC2021 - El saldo no puede ser negativo
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.951 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.955 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.957 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:212)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.958 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:122)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.963 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:224)]2021-05-12 08:43:32.964 [main] PracticaJDBC2021 - El saldo no puede ser negativo
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:43:32.966 [main] SQLException_PracticaJDBC2021 - El saldo no puede ser negativo
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.968 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.969 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.975 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:231)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.977 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:122)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:43:32.978 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:43:32.982 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:43:32.989 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:43:33.018 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:43:33.039 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.342 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.373 [main] ExecuteScript - SQL*Plus: Release 11.2.0.2.0 Production on Mié May 12 08:44:36 2021
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.374 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.376 [main] ExecuteScript - Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.388 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.403 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.405 [main] ExecuteScript - Connected to:
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.409 [main] ExecuteScript - Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.417 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.495 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.496 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.497 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.546 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.547 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.548 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.609 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.644 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.649 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.668 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.670 [main] ExecuteScript - Sequence dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.674 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.678 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.679 [main] ExecuteScript - Sequence created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.684 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.716 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.718 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.740 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.756 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.761 [main] ExecuteScript - Sequence dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.770 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.775 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.781 [main] ExecuteScript - Sequence created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.782 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.828 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.829 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.830 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.925 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.939 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.954 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.961 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.970 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.973 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.974 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.976 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.977 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.977 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.978 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.979 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:44:36.980 [main] ExecuteScript - Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:44:39.317 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:44:39.319 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:44:39.921 [main] SQLException_PracticaJDBC2021 - No existe cliente con ese DNI
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.925 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.926 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.927 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:267)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.928 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:39)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.929 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-12 08:44:39.931 [main] PracticaJDBC2021 - No existe cliente con ese DNI
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:44:39.950 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:44:39.951 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-12 08:44:39.982 [main] PracticaJDBC2021 - ORA-02291: integrity constraint (HR.SYS_C0011670) violated - parent key not found
+
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:44:39.985 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.986 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.988 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.989 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:297)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.990 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:52)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:39.995 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:44:39.997 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:44:40.001 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:44:40.030 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:44:40.031 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:44:40.088 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:44:40.112 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-12 08:44:40.118 [main] PracticaJDBC2021 - ORA-00001: unique constraint (HR.SYS_C0011669) violated
+
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:44:40.135 [main] SQLException_PracticaJDBC2021 - Autorizacion Repetida
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.138 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.139 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.140 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:307)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.141 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:94)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.142 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:44:40.143 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:44:40.143 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:44:40.151 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.154 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.154 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.155 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:205)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.156 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:109)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.157 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:224)]2021-05-12 08:44:40.157 [main] PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:44:40.159 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:44:40.160 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:44:40.163 [main] SQLException_PracticaJDBC2021 - El saldo no puede ser negativo
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.164 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.177 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.178 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:212)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.180 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:122)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:44:40.181 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:224)]2021-05-12 08:44:40.182 [main] PracticaJDBC2021 - El saldo no puede ser negativo
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:44:40.183 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:44:40.185 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:44:40.218 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:44:40.220 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.247 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.258 [main] ExecuteScript - SQL*Plus: Release 11.2.0.2.0 Production on Mié May 12 08:47:00 2021
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.258 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.260 [main] ExecuteScript - Copyright (c) 1982, 2011, Oracle.  All rights reserved.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.303 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.306 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.308 [main] ExecuteScript - Connected to:
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.309 [main] ExecuteScript - Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.317 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.414 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.419 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.422 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.472 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.474 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.474 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.521 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.568 [main] ExecuteScript - Table dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.571 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.574 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.574 [main] ExecuteScript - Sequence dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.575 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.578 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.583 [main] ExecuteScript - Sequence created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.584 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.589 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.591 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.595 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.613 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.617 [main] ExecuteScript - Sequence dropped.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.636 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.645 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.646 [main] ExecuteScript - Sequence created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.653 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.676 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.684 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.685 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.778 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.814 [main] ExecuteScript - Table created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.816 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.829 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.868 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.871 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.875 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.877 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.888 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.894 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.895 [main] ExecuteScript - 1 row created.
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.896 [main] ExecuteScript - 
+DEBUG: [lsi.ubu.util.ExecuteScript.run(ExecuteScript.java:59)]2021-05-12 08:47:00.901 [main] ExecuteScript - Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:47:02.843 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:47:02.844 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:47:03.475 [main] SQLException_PracticaJDBC2021 - No existe cliente con ese DNI
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.479 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.480 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.488 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:267)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.490 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:39)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.491 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-12 08:47:03.491 [main] PracticaJDBC2021 - No existe cliente con ese DNI
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:47:03.506 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:47:03.507 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-12 08:47:03.538 [main] PracticaJDBC2021 - ORA-02291: integrity constraint (HR.SYS_C0011677) violated - parent key not found
+
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:47:03.545 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.546 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.554 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.569 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:297)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.572 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:52)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.573 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:47:03.574 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:47:03.579 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:47:03.588 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:47:03.590 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:47:03.651 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:47:03.656 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:285)]2021-05-12 08:47:03.675 [main] PracticaJDBC2021 - ORA-00001: unique constraint (HR.SYS_C0011676) violated
+
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:47:03.682 [main] SQLException_PracticaJDBC2021 - Autorizacion Repetida
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.691 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.693 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.693 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.altaAutorizado(PracticaJDBC2021.java:307)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.694 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:94)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.695 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:47:03.697 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:47:03.698 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:47:03.786 [main] SQLException_PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.789 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.790 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.792 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:205)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.793 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:109)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.795 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:224)]2021-05-12 08:47:03.796 [main] PracticaJDBC2021 - No existe ese nro de cuenta corriente
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:47:03.798 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:47:03.799 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+ERROR: [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:38)]2021-05-12 08:47:03.804 [main] SQLException_PracticaJDBC2021 - El saldo no puede ser negativo
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.806 [main] SQLException_PracticaJDBC2021 - java.base/java.lang.Thread.getStackTrace(Thread.java:1606)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.807 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:41)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.809 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:212)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.810 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.pruebaAltaAutorizado(PracticaJDBC2021.java:122)
+INFO : [lsi.ubu.PracticaJDBC2021.SQLException_PracticaJDBC2021.<init>(SQLException_PracticaJDBC2021.java:42)]2021-05-12 08:47:03.811 [main] SQLException_PracticaJDBC2021 - lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.main(PracticaJDBC2021.java:27)
+DEBUG: [lsi.ubu.PracticaJDBC2021.PracticaJDBC2021.actualizarSaldo(PracticaJDBC2021.java:224)]2021-05-12 08:47:03.813 [main] PracticaJDBC2021 - El saldo no puede ser negativo
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:47:03.817 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:47:03.820 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:109)]2021-05-12 08:47:03.837 [main] PoolDeConexiones - Activacion de Autocommit=false
+INFO : [lsi.ubu.util.PoolDeConexiones.getConnection(PoolDeConexiones.java:117)]2021-05-12 08:47:03.842 [main] PoolDeConexiones - Activacion de Autocommit=false
+Nivel de Aislamiento=TRANSACTION_READ_COMMITTED

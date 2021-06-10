@@ -1,0 +1,97 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DELAY
+RV NO_FIXED_POINT
+RV NO_IO
+RV NO_RELATIVE_DELAY
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_TASKING
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+RV MAX_TASKS=1
+
+U tareas%b		tareas.adb		a4192226 OO PK
+W ada%s			ada.ads			ada.ali
+Z ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.tasking%s	s-taskin.adb		s-taskin.ali
+Z system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+U tareas%s		tareas.ads		011e6fc5 EE NE OO PK
+Z ada.real_time%s	a-reatim.adb		a-reatim.ali
+Z system%s		system.ads		system.ali
+Z system.parameters%s	s-parame.adb		s-parame.ali
+Z system.task_info%s	s-tasinf.adb		s-tasinf.ali
+Z system.tasking%s	s-taskin.adb		s-taskin.ali
+Z system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+D ada.ads		20200228061810 76789da1 ada%s
+D a-calend.ads		20200228061810 474d9720 ada.calendar%s
+D a-caldel.ads		20200228061810 9f20b83d ada.calendar.delays%s
+D a-except.ads		20200228061810 a7106115 ada.exceptions%s
+D a-ioexce.ads		20200228061810 e4a01f64 ada.io_exceptions%s
+D a-reatim.ads		20200228061810 0240fc73 ada.real_time%s
+D a-stream.ads		20200228061810 119b8fb3 ada.streams%s
+D a-tags.ads		20200228061810 edddc8f0 ada.tags%s
+D a-textio.ads		20200228061810 aef4d56d ada.text_io%s
+D a-unccon.ads		20200228061810 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20200228061810 5ab55268 interfaces%s
+D i-c.ads		20200228061810 c624fa43 interfaces.c%s
+D i-cstrin.ads		20200228061810 341d0ddf interfaces.c.strings%s
+D i-cstrea.ads		20200228061810 e53d8b8e interfaces.c_streams%s
+D system.ads		20200228061810 32a08138 system%s
+D s-atacco.ads		20200228061810 4c36d12f system.address_to_access_conversions%s
+D s-crtl.ads		20200228061810 0ebbdb71 system.crtl%s
+D s-exctab.ads		20200228061810 54135002 system.exception_table%s
+D s-ficobl.ads		20200228061810 078245e4 system.file_control_block%s
+D s-multip.ads		20200228061810 38ac9f73 system.multiprocessors%s
+D s-osinte.ads		20200228061810 97504df8 system.os_interface%s
+D s-parame.ads		20200228061810 4752c4cb system.parameters%s
+D s-secsta.ads		20200327060540 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20200228061810 a7318a92 system.soft_links%s
+D s-stache.ads		20200228061810 a37c21ec system.stack_checking%s
+D s-stausa.ads		20200228061810 017a0a05 system.stack_usage%s
+D s-stalib.ads		20200228061810 6b7a13f2 system.standard_library%s
+D s-stoele.ads		20200228061810 2dc34a04 system.storage_elements%s
+D s-tasinf.ads		20200228061810 601f6b72 system.task_info%s
+D s-taspri.ads		20200228061810 6c1d93d4 system.task_primitives%s
+D s-taprop.ads		20200228061810 6eefbe12 system.task_primitives.operations%s
+D s-taskin.ads		20200228061810 88fba9ad system.tasking%s
+D s-tassta.ads		20200228061810 cca55c94 system.tasking.stages%s
+D s-traent.ads		20200228061810 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20200319060540 5ecf7212 system.unsigned_types%s
+D s-wchcon.ads		20200228061810 1b7d22d2 system.wch_con%s
+D s-win32.ads		20200228061810 15ac53fb system.win32%s
+D tareas.ads		20210602212446 011e6fc5 tareas%s
+D tareas.adb		20210602212458 0bf3988e tareas%b
+G a e
+G c Z s b [tarea_1 tareas 3 14 none]
+G c Z s b [tarea_2 tareas 4 14 none]
+G c Z s b [tarea_3 tareas 5 14 none]
+G c Z s s [tarea_1VIP tareas 3 4 none]
+G c Z s s [tarea_2VIP tareas 4 4 none]
+G c Z s s [tarea_3VIP tareas 5 4 none]
+X 1 ada.ads
+16K9*Ada 20e8 39|1r6 2r5
+X 9 a-textio.ads
+57K13*Text_IO 727e16 39|1w10 2r9
+508U14*Put_Line 39|10s10 19s10 28s10
+X 26 s-stausa.ads
+208U14*Initialize 209i<c,__gnat_stack_usage_initialize>22
+273U14*Output_Results 277i<c,__gnat_stack_usage_output_results>22
+X 38 tareas.ads
+1K9*Tareas 7l5 7e11 39|4b14 35l5 35t11
+3T14*Tarea_1 39|5r9 7b14 13l8 13t15
+4T14*Tarea_2 39|16b14 22l8 22t15
+5T14*Tarea_3 39|25b14 31l8 31t15
+X 39 tareas.adb
+5t4 T1{38|3T14}
+

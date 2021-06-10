@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\alumnos.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 31" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\clases.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\clases.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 30" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\clases.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\lista_alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 30" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\lista_alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\menu.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\menu.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\lista_alumnos.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 26" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\Usuario\Desktop\Tarea 1\src\lista_alumnos.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
